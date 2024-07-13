@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>untitled</finalName>
+    <finalName>hello-world-war-1.0.0</finalName>
   </build>
 </project>
